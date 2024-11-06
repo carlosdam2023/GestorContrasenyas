@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Voyas"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "CodeGPT Plus Beta"
+	}
+}
